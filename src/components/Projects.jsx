@@ -9,21 +9,21 @@ const projects = [
     title: "AI Doctor Chatbot",
     description: "A serverless chatbot built with Amazon Lex and AWS Lambda for real-time doctor appointment bookings.",
     tags: ["Amazon Lex", "AWS Lambda", "S3"],
-    github: "https://github.com",
+    github: "https://github.com/DileepKumarReddySathi/Personal-Portfolio-Website-with-Modern-UI-and-Animations",
     image: dashboardImg,
   },
   {
     title: "CI/CD Pipeline Automation",
     description: "Streamlined deployment workflows using AWS CodePipeline and Docker containers for enterprise applications.",
     tags: ["AWS", "Docker", "CodePipeline"],
-    github: "https://github.com",
+    github: "https://github.com/DileepKumarReddySathi/Personal-Portfolio-Website-with-Modern-UI-and-Animations",
     image: ecommerceImg,
   },
   {
     title: "Cloud Infrastructure Setup",
     description: "Configured secure and scalable infrastructure using Terraform and AWS services like VPC, EC2, and RDS.",
     tags: ["Terraform", "AWS", "Infrastructure"],
-    github: "https://github.com",
+    github: "https://github.com/DileepKumarReddySathi/Personal-Portfolio-Website-with-Modern-UI-and-Animations",
     image: cryptoImg,
   }
 ];

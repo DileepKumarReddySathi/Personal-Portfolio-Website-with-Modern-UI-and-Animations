@@ -103,10 +103,10 @@ export default function Navbar() {
               ))}
               <hr className="border-white/10" />
               <div className="flex gap-6 mt-2">
-                <a href="https://github.com" className="text-slate-400 hover:text-white">
+                <a href="https://github.com/DileepKumarReddySathi" className="text-slate-400 hover:text-white">
                   <Github size={20} />
                 </a>
-                <a href="https://linkedin.com" className="text-slate-400 hover:text-white">
+                <a href="https://www.linkedin.com/in/dileep-kumar-reddy-sathi-454174291/" className="text-slate-400 hover:text-white">
                   <Linkedin size={20} />
                 </a>
                 <a href="mailto:dileepkumarreddysathi@gmail.com" className="text-slate-400 hover:text-white">

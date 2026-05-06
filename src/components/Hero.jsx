@@ -56,7 +56,7 @@ export default function Hero() {
           <div className="flex items-center justify-center gap-6">
             {[
               { icon: Github, href: "https://github.com/dileepkumarreddysathi" },
-              { icon: Linkedin, href: "https://linkedin.com/in/dileepkumarreddysathi" },
+              { icon: Linkedin, href: "https://www.linkedin.com/in/dileep-kumar-reddy-sathi-454174291/" },
             ].map((social, i) => (
               <motion.a
                 key={i}
