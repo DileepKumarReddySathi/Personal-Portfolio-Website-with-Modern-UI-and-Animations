@@ -3,7 +3,7 @@
 A visually stunning, high-performance personal portfolio website built with React, Tailwind CSS v4, and Framer Motion.
 
 ## 🚀 Live Demo
-[Live URL](https://dileep-portfolio.vercel.app) (Placeholder - Deploying now)
+[Live URL](https://personal-portfolio-website-with-mod.vercel.app/)
 
 ## 👤 Author
 **Sathi Dileep Kumar Reddy**
