@@ -48,8 +48,7 @@ A visually stunning, high-performance personal portfolio website built with Reac
    ```bash
    npm run dev
    ```
-   ### Portfolio Link:- https://personal-portfolio-website-with-mod.vercel.app/
-
+   
 4. Build for production:
    ```bash
    npm run build
@@ -57,3 +56,6 @@ A visually stunning, high-performance personal portfolio website built with Reac
 
 ## 📄 License
 MIT License. Feel free to use this as a template for your own portfolio!
+
+### Portfolio Link:- https://personal-portfolio-website-with-mod.vercel.app/
+
